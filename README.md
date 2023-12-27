@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @BaptisteLT
-- 👀 I’m interested in coding and piano
-- 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Welcome to my github page!
+- I am a web developper mainly using Symfony for creating amazing web applications.
 
 <!---
 BaptisteLT/BaptisteLT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
